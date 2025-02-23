@@ -5,5 +5,6 @@ This Script is created by @CyckerX
 
 Too bad That I wont give Comants On How To use it Unless You Follow All my Accounts
 
-![191132642-dc983e0a-0166-4ae8-a33d-dbbad6758193](https://github.com/user-attachments/assets/1cf76190-0215-4d36-bffd-7d70bf8fdfef)
+
+![images (10)](https://github.com/user-attachments/assets/4561b7b4-40c7-4724-acc6-40e4c5f7a96b)
 
