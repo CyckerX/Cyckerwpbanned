@@ -1,0 +1,2 @@
+# Cyckerwpbanned
+THIS SCRIPT CAN BAN ANY WHATSAPP NUMBER AND MADE BY @CyckerX | Telegram 
