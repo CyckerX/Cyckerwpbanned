@@ -61,7 +61,7 @@ def program():
             elif (option=="2"):
                 delay_print(f"{Fore.YELLOW}Gather information for "+realnumber+"?\n")
                 yesorno2 = input("(Y/N): ")
-                delay_print("Name: 47hxl-53r\nStatus: HACKED by Mr Juice!")
+                delay_print("Name: 47hxl-53r\nStatus: HACKED by CyckerX!")
                 data.lockout()
 
             else:
