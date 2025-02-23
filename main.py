@@ -1,5 +1,5 @@
 # Whatsapp number banning tool
-# Created by @CyckerX
+# Created by CyckerX 
 #
 import os
 import time
@@ -32,7 +32,7 @@ __      __| |__    __ _ | |_  ___ | |__    __ _  _ __
    {Fore.YELLOW}                                                              
 Coded by CyckerX
 Chat Me https://t.me/CyckerX
-Whatsapp number banning tool made by CyckerX
+Whatsapp number banning tool
 {Fore.CYAN}
 *************************************************
    {Fore.WHITE} ''')
@@ -40,7 +40,7 @@ banner_display()
 #
 #
 def program():
-    number = input("[+] Put Number with country code like +91:")
+    number = input("[+] Put Number with country code like +263: +")
     realnumber = "+"+number
     check = number.isnumeric()
     lennber = len(number)
@@ -61,7 +61,7 @@ def program():
             elif (option=="2"):
                 delay_print(f"{Fore.YELLOW}Gather information for "+realnumber+"?\n")
                 yesorno2 = input("(Y/N): ")
-                delay_print("Name: 47hxl-53r\nStatus: HACKED by CyckerX!")
+                delay_print("Name: 47hxl-53r\nStatus: HACKED by Mr CyckerX!")
                 data.lockout()
 
             else:
