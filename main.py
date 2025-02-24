@@ -40,7 +40,7 @@ banner_display()
 #
 #
 def program():
-    number = input("[+] Put Number with country code like +263: +")
+    number = input("[+] Put Number with country code like +91:")
     realnumber = "+"+number
     check = number.isnumeric()
     lennber = len(number)
